@@ -14,7 +14,7 @@ To create library with two bonus functions:
 
 make bonus
 
-To run tester for the bonus functions with library:
+To run tester for the bonus functions with library: (**for 42 students: Your push_front function should *malloc* and link in your data argument... I will update my function later as I only linked a pre-malloced argument in mine) 
 
 make bonus
 make test_bonus
