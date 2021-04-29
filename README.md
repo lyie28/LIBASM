@@ -2,16 +2,20 @@
 A short collection of functions written in x64 Assembly language
 
 To create library:
+
 make
 
 To run tester main.c with library:
+
 make
 make test
 
 To create library with two bonus functions:
+
 make bonus
 
 To run tester for the bonus functions with library:
+
 make bonus
 make test_bonus
 
